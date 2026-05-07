@@ -2,6 +2,12 @@
 
 A PySide6 desktop application for graph database visualization and editing, built on the Viper persistence layer.
 
+## Documentation
+
+Full documentation: https://docs.digitalsubstrate.io/reference-apps/ge-py.html
+
+Part of the [DevKit ecosystem](https://docs.digitalsubstrate.io/).
+
 ## Prerequisites
 
 - Python 3.14+
