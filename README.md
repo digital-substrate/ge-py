@@ -1,6 +1,6 @@
 # Graph Editor (ge-py)
 
-A PySide6 desktop application for graph database visualization and editing, built on the Viper persistence layer.
+A PySide6 desktop application for graph database visualization and editing, built on dsviper.
 
 ## Documentation
 
