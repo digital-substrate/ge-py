@@ -1180,7 +1180,7 @@ class MainWindow(QMainWindow):
 
     # About
     def _about_triggered(self):
-        ds_license.show_about_dialog(self, "Graph Editor", "Graph Editor")
+        ds_license.show_about_dialog(self, "Graph Editor", "Graph Editor", version=__version__)
 
     # Inspect
     def _inspect_database_did_open(self):
