@@ -39,6 +39,7 @@ from dsviper_components.ds_logger import DSLogger
 from dsviper_components.ds_settings import DSSettings
 
 from dsviper_components import ds_license
+from _version import __version__
 import os
 import platform
 import sys
@@ -1358,7 +1359,7 @@ def main():
     app = QApplication(sys.argv)
     app.setApplicationDisplayName("Graph Editor")
     app.setApplicationName("Graph Editor")
-    app.setApplicationVersion(ds_license.VERSION)
+    app.setApplicationVersion(__version__)
     app.setStyle("fusion")
     app.setWindowIcon(QIcon(":/images/ge_icon.png"))
 
