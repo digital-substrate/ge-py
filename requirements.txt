@@ -1,4 +1,4 @@
-dsviper>=1.2.15
+dsviper>=1.2.16
 
 # Qt UI for graph_editor.py and dsviper_components/.
 # Pinned to guarantee reproducible regeneration of ui_*.py and
