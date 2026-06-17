@@ -594,7 +594,6 @@ class MainWindow(QMainWindow):
         help_menu.addAction(self._mouse_shortcuts_action)
         help_menu.addSeparator()
         help_menu.addAction(self._about_action)
-        help_menu.addSeparator()
         help_menu.addAction(self._about_qt_action)
 
         settings = DSSettings()
