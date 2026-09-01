@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Report a problem with Graph Editor (ge-py)
+about: Report a problem with Graph Editor (dsviper-ge)
 labels: bug
 ---
 
@@ -8,7 +8,7 @@ labels: bug
 <!-- Clear description of the bug -->
 
 ## Environment
-- ge-py commit/version:
+- dsviper-ge commit/version:
 - Python version:
 - PySide6 version:
 - dsviper version:

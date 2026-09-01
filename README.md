@@ -1,10 +1,10 @@
-# Graph Editor (ge-py)
+# Graph Editor (dsviper-ge)
 
 A PySide6 desktop application for graph database visualization and editing, built on dsviper.
 
 ## Documentation
 
-Full documentation: https://docs.digitalsubstrate.io/reference-apps/ge-py.html
+Full documentation: https://docs.digitalsubstrate.io/commit-apps/dsviper-ge.html
 
 Part of the [DevKit ecosystem](https://docs.digitalsubstrate.io/).
 

@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest a feature or enhancement for Graph Editor (ge-py)
+about: Suggest a feature or enhancement for Graph Editor (dsviper-ge)
 labels: enhancement
 ---
 

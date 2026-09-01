@@ -2,13 +2,13 @@
 
 ## Project Context
 
-Graph Editor Python (ge-py) is a port of the Objective-C/AppKit reference implementation to Python/PySide6, aiming for
+Graph Editor Python (dsviper-ge) is a port of the Objective-C/AppKit reference implementation to Python/PySide6, aiming for
 cross-platform support without compilation.
 
 ### Evolution
 
 ```
-Objective-C/AppKit (reference)     Qt/C++ (ge-qt)           Python/PySide6 (ge-py)
+Objective-C/AppKit (reference)     Qt/C++ (ge-qt)           Python/PySide6 (dsviper-ge)
 ├── NSTableView animations    →    ├── Cross-platform   →   ├── Cross-platform
 ├── Python Editor                  ├── No Python Editor     ├── No Python Editor (TODO)
 ├── Python embedded                ├── No embedded          ├── Native Python

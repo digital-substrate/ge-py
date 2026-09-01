@@ -535,7 +535,7 @@ class MainWindow(QMainWindow):
         navigation_menu.addAction(self._go_forward_action)
         navigation_menu.addAction(self._go_back_action)
 
-        # Editor menu — mirrors ge-qml Editor menu structure
+        # Editor menu — mirrors dsviper-ge-qml Editor menu structure
         editor = self._code_editor_dialog.editor
         editor_menu = self.menuBar().addMenu(self.tr("&Editor"))
 

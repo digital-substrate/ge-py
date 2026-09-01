@@ -1,10 +1,10 @@
-# Contributing to Graph Editor (ge-py)
+# Contributing to Graph Editor (dsviper-ge)
 
 Thanks for your interest in contributing.
 
 ## Reporting issues
 
-Use [GitHub Issues](https://github.com/digital-substrate/ge-py/issues) and pick the appropriate template (bug report or feature request).
+Use [GitHub Issues](https://github.com/digital-substrate/dsviper-ge/issues) and pick the appropriate template (bug report or feature request).
 
 ## Submitting pull requests
 
